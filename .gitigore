@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.so
+
+# Precompiled Headers
+*.gch
+
+# Executables and Binaries
+main
+*.bin
+*.exe
+
+# Bitmap files
+*.bmp
+
+# Other files
+.DS_Store
+.vscode/
+.idea/
+
