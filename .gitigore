@@ -1,3 +1,7 @@
+/main
+/output.bmp
+/*,o
+
 # Compiled object files
 *.o
 *.so
